@@ -79,7 +79,6 @@ def binary_multiple_of_4? s
       end
     end
   end 
-  puts output
   return output
 end
 

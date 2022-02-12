@@ -28,17 +28,8 @@ Ruby intro part 1
   works on nonletters [5 points]
 
 #binary_multiple_of_4?
-false
   should be defined
-true
-true
-true
-true
-false
-false
   classifies valid binary numbers [30 points]
-false
-false
   rejects invalid binary numbers [10 points]
 
 BookInStock
@@ -58,6 +49,6 @@ BookInStock
     should display 1.1 as $1.10 [10 points]
     should display 20 as $20.00 [10 points]
 
-Finished in 0.00999 seconds (files took 0.08526 seconds to load)
+Finished in 0.00798 seconds (files took 0.08815 seconds to load)
 34 examples, 0 failures
 
